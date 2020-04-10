@@ -1,0 +1,76 @@
+	@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Yesteryear&display=swap');
+	*{
+	 margin: 0;
+	 padding: 0;
+	 box-sizing: border-box; 8FC050
+	}
+	body{
+		background-color: ;
+	}
+	h1{
+		font-family: 'Niconne', cursive;
+		font-size: 70px;
+		color: #000000;
+		margin: auto;
+		padding: 100px;
+		text-align: center;
+	}
+	/*p{
+		font-family: 'Open Sans', sans-serif;
+		font-size: 50px;
+		margin: auto;
+		padding: 90px;
+		text-align: center;
+}*/
+	aside.aside{
+		width: 85%;
+		height: 350px;
+		background: #ffffff;
+	 	background: -moz-linear-gradient(top, #ffffff 0%, #00b7ea 100% );
+	 	background: -webkit-linear-gradient(#ffffff 0%, #00b7ea 100%);
+	 	background: -o-linear-gradient(#ffffff 0%, #00b7ea 100%);
+	 	background: linear-gradient(#ffffff 0%, #00b7ea 100% );
+		margin: auto;
+	}
+	aside.aside section{
+		text-align: center;
+		margin: 10px;
+		width: 15%;
+		height: 50px;
+		display: inline-block;
+	}
+	.aside .link1{
+		background-color:;
+		position: absolute;
+		width: 250px;
+		height: 350px;
+		margin-top:10px;
+		margin-left: 20px;
+		
+		
+	}
+	.aside .link2{
+		background-color:;
+		position: absolute;
+		width: 250px;
+		height: 333px;
+		margin-top:12px;
+		margin-left: 300px;
+	}
+	.aside .link3{
+		background-color:;
+		position: absolute;
+		width: 250px;
+		height: 333px;
+		margin-top:10px;
+		margin-left: 590px;
+	}
+	.aside .link4{
+		background-color:;
+		position: absolute;
+		width: 300px;
+		height: 300px;
+		margin-top:5px;
+		margin-left: 850px;
+	}
